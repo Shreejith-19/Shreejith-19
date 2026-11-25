@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Shreejith <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"></h1>
+<h1 align="center">Hey, I'm Shreejith 👋</h1>
 
 <h3 align="center">
   Full Stack Developer | Systems Engineering | AI/ML
