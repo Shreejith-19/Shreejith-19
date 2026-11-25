@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Shreejith 👋</h1>
+<h1>Hey, I'm Shreejith 👋</h1>
 
 
 ### 👨‍💻 About Me
