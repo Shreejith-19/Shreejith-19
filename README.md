@@ -57,52 +57,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-**1. Docksmith — Container Runtime & Build System**
-
-A lightweight container build and runtime system implemented from scratch.
-
-- Linux namespaces and chroot-based isolation.
-- Filesystem layers and build caching.
-
-**Tech:** Python, Linux
-
-[Repository](YOUR_REPOSITORY_LINK)
-
-**2. Structure-Aware Local RAG**
-
-A retrieval-augmented generation system with document-aware retrieval and citation mapping.
-
-- Retrieval and reranking pipeline.
-- Citation tracking and evaluation.
-
-**Tech:** Python, NLP, RAG
-
-[Repository](YOUR_REPOSITORY_LINK)
-
-**3. Carnatic Music Beat Tracking**
-
-A deep learning pipeline for beat and rhythmic cycle estimation.
-
-- MERT-based audio representations.
-- Bidirectional Mamba temporal modeling.
-
-**Tech:** Python, PyTorch, MERT, Mamba
-
-[Repository](YOUR_REPOSITORY_LINK)
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 I'm always interested in discussing software engineering,
