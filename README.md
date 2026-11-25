@@ -56,13 +56,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 🤝 Let's Connect
-
-I'm always interested in discussing software engineering,
-distributed systems, open source and interesting projects.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
