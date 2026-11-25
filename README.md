@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- Exploring backend engineering and distributed systems, for building reliable and scalable systems.
+- Exploring backend engineering and distributed systems to build reliable and scalable systems.
 - Exploring RAG systems and Agentic AI to build intelligent applications.
 - Currently working on <u>[CaseWise](https://github.com/Shreejith-19/CaseWise_final)</u> — a fully local legal AI research assistant for Indian statutory law.
 
