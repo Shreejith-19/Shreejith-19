@@ -1,27 +1,5 @@
 
 <h1 align="center">Hey, I'm Shreejith 👋</h1>
-
-<h3 align="center">
-  Full Stack Developer | Systems Engineering | AI/ML
-</h3>
-
-<p align="center">
-  Building scalable applications, exploring distributed systems,
-  and solving interesting engineering problems.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
