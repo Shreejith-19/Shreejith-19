@@ -4,10 +4,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Interested in software engineering and building real-world systems.
-- 🚀 Enjoy developing full-stack applications and backend infrastructure.
-- 🧠 Exploring distributed systems, Kafka, AI/ML and system design.
-- 🔧 Love understanding how things work under the hood.
+- Interested in backend engineering, distributed systems, and building reliable systems.
+- Interested in RAG systems, Agentic AI, and building intelligent applications.
 
 ### 🛠️ Tech Stack
 
